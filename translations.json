@@ -1,0 +1,40 @@
+{
+	"en": {
+		"aboutButton": "ℹ️ About",
+		"aboutMessage": "<b>ℹ️ About this Bot</b>\n\n*️⃣ PHP: [0]\n📶 Host: <a href=\"https://hetzner.cloud/?ref=tQoUeYbvIstA\">Hetzner.cloud</a>\n👨🏻‍💻 Developer: @NeleReal\n📢 Updates: @NeleBotsUpdates\n🌐 Other @NeleBots",
+		"changeLanguage": "🔡 Change language",
+		"chooseGame": "🔎 Choose one of the games found using the buttons below this message:",
+		"downloadButton": "⬇️ Download",
+		"helpButton": "🆘 Help",
+		"helpMessage": "<b>🆘 Help Page</b>\nSend a game title to be able to get cover image!",
+		"instanceError": "❌ There was an error, try again later...",
+		"noGamesFound": "❌ No game was found...",
+		"photoInfo": "<b>ℹ️ Dimensions:</b> [0]px\n<b>✍️ Notes:</b> [1]\n<b>👤 Author:</b> <a href='https://steamcommunity.com/profiles/[2]'>[3]</a>",
+		"photoNotFound": "❓ Photo not found...",
+		"requestPending": "⚠️ Request in pending...",
+		"startMessage": "With this Bot you can search for cover images for any game!",
+		"typeGrids": "📒 Grids",
+		"typeHeroes": "🌆 Heroes",
+		"typeIcons": "🖼 Icons",
+		"typeLogos": "🪧 Logos"
+	},
+	"it": {
+		"aboutButton": "ℹ️ Informazioni",
+		"aboutMessage": "<b>ℹ️ Informazioni</b>\n\n*️⃣ PHP: [0]\n📶 Host: <a href=\"https://hetzner.cloud/?ref=tQoUeYbvIstA\">Hetzner.cloud</a>\n👨🏻‍💻 Sviluppatore: @NeleReal\n📢 Aggiornamenti: @NeleBotsUpdates\n🌐 Altri @NeleBots",
+		"changeLanguage": "🔡 Cambia lingua",
+		"chooseGame": "🔎 Scegli uno tra i giochi trovati tramite i pulsanti sotto a questo messaggio:",
+		"downloadButton": "⬇️ Scarica",
+		"helpButton": "🆘 Aiuto",
+		"helpMessage": "<b>🆘 Pagina di Aiuto</b>\nInvia il titolo di un gioco per cercare un'immagine copertina!",
+		"instanceError": "❌ Si è verificato un errore, riprova più tardi...",
+		"noGamesFound": "❌ Nessun gioco trovato...",
+		"photoInfo": "<b>ℹ️ Dimensioni:</b> [0]px\n<b>✍️ Note:</b> [1]\n<b>👤 Autore:</b> <a href='https://steamcommunity.com/profiles/[2]'>[3]</a>",
+		"photoNotFound": "❓ Foto non trovata...",
+		"requestPending": "⚠️ Richiesta in attesa...",
+		"startMessage": "Con questo Bot puoi cercare immagini copertina di qualsiasi gioco!",
+		"typeGrids": "📒 Griglie",
+		"typeHeroes": "🌆 Eroi",
+		"typeIcons": "🖼 Icone",
+		"typeLogos": "🪧 Loghi"
+	}
+}
